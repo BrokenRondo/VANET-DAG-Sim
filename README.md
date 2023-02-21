@@ -3,9 +3,9 @@ A simulator of the DAG-based data dissemination protocol used in VANET store-car
 
 How to simulate locally:
 
-Open project by Eclipse/IDEA  
-Set totalVehicles, msgLostRate in main.java. Notice the maximum totalVehicles could be influenced by your computer performance. Too many totalVehicles could slow down your computer and the simulation.  
-Run main.main
+1.Open project by Eclipse/IDEA  
+2.Set totalVehicles, msgLostRate in main.java. Notice the maximum totalVehicles could be influenced by your computer performance. Too many totalVehicles could slow down your computer and the simulation.  
+3.Run main.main
 
 Example output:
 
