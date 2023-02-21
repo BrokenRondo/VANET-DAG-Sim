@@ -13,8 +13,8 @@ Run main.main
 
 Example output:
 
-Channel built. Waiting for connection...\n
-Listening thread started.
+Channel built. Waiting for connection...  
+Listening thread started.  
 Vehicle 0 running...
 
 Vehicle 1 running...
