@@ -5,7 +5,7 @@ How to simulate locally:
 
 Open project by Eclipse/IDEA
 
-Configure totalVehicles, msgLostRate in main.java
+Set totalVehicles, msgLostRate in main.java.
 
 Notice the maximum totalVehicles could be influenced by your computer performance. Too many totalVehicles could slow down your computer and the simulation.
 
