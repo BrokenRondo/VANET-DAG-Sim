@@ -13,7 +13,7 @@ Run main.main
 
 Example output:
 
-Channel built. Waiting for connection...
+Channel built. Waiting for connection...\n
 Listening thread started.
 Vehicle 0 running...
 
@@ -24,7 +24,7 @@ Vehicle 2 running...
 Protocol start time: 1676999943408
 Vehicle 3 running...
 
-Received connection from: /127.0.0.1:7334
+Received connection from: /127.0.0.1:7334\n
 Received connection from: /127.0.0.1:7335
 Received connection from: /127.0.0.1:7336
 Received connection from: /127.0.0.1:7337
